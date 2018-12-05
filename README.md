@@ -13,7 +13,7 @@ Ships can touch but they must not overlap.
 
 The application should accept input from the user in the format “A5” to signify a square to target, and feedback to the user whether the shot was success, miss, and additionally report on the sinking of any vessels.
 
-![alt text](http://ellefu.eu/images/battleships_00.png)
+![alt text](http://ellefu.eu/images/battleships_000.png)
 
 Example output
 
