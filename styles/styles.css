@@ -1,0 +1,32 @@
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+#message {
+    margin-bottom: 1rem;
+}
+
+#myDynamicTable {
+    margin-bottom: 3rem;
+}
+
+table {
+    border-collapse: collapse;
+    border: 0px;
+    text-align: center;
+    display: block;
+}
+
+td {
+    font-weight: 900;
+    width: 2rem;
+    height: 2rem;
+    border: 0px;
+}
+
+.char_index {
+    font-size: 1.2rem;
+    position: relative;
+    top: 4px;
+}
