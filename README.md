@@ -12,9 +12,8 @@ The program should create a 10x10 grid, and place a number of ships on the grid 
 Ships can touch but they must not overlap.
 
 The application should accept input from the user in the format “A5” to signify a square to target, and feedback to the user whether the shot was success, miss, and additionally report on the sinking of any vessels.
-. = no shot
-- = miss
-X = hit
+
+![alt text](http://ellefu.eu/images/battleships_00.png)
 
 Example output
 
